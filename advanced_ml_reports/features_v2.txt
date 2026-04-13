@@ -1,0 +1,1 @@
+credit_sco,gender,age,occupation,balance,tenure_ye,married,nums_card,nums_service,active_member,last_transaction_month,customer_segment,engagement_score,loyalty_level,digital_behavior,risk_score,risk_segment,cluster_group
