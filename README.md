@@ -62,5 +62,5 @@
 ## 📫 Контакты
 
 - GitHub: [github.com/spacenpr](https://github.com/spacenpr)
-- Telegram: [@spaceinspace]
+- Telegram: [@spaceinspace] (https://t.me/spaceinspace)
 - Почта: `spacenpr@gmail.com`
